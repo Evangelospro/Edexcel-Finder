@@ -1,0 +1,3 @@
+.venv
+/static/images/[a-f0-9-]*
+static/QP.pdf
